@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Api_Data/static/css/main.bc05c8ab.css",
+    "main.js": "/Api_Data/static/js/main.166a690d.js",
+    "static/js/787.dd3da8ef.chunk.js": "/Api_Data/static/js/787.dd3da8ef.chunk.js",
+    "static/media/covid.png": "/Api_Data/static/media/covid.1c14e49bc1231431415d.png",
+    "index.html": "/Api_Data/index.html",
+    "main.bc05c8ab.css.map": "/Api_Data/static/css/main.bc05c8ab.css.map",
+    "main.166a690d.js.map": "/Api_Data/static/js/main.166a690d.js.map",
+    "787.dd3da8ef.chunk.js.map": "/Api_Data/static/js/787.dd3da8ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc05c8ab.css",
+    "static/js/main.166a690d.js"
+  ]
+}
